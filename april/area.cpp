@@ -18,7 +18,7 @@ double area(double radius)
 double area(int a,int b,int c)
 {
   double s=(a+b+c)/2;
-  return sqrt(s*(s-a)*(s`b)*(s-c));
+  return sqrt(s*(s-a)*(s-b)*(s-c));
 }
 int main()
 {
