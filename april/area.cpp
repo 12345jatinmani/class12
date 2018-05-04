@@ -33,10 +33,10 @@ double area(int a,int b,int c)
 int main()
 {
 
-  cout<< area(41)<<endl;
-  cout<<area(12,5)<<endl;
-  cout<<area(1)<<endl;
-  cout<<area(1,2,3)<<endl;
+  cout<< area(34)<<endl;
+  cout<<area(12,35)<<endl;
+  cout<<area(13)<<endl;
+  cout<<area(13,24,43)<<endl;
   return 0;
 
 }
