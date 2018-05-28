@@ -14,7 +14,7 @@ int linearSearch(int *a, int n, int e)
       return i;
   }
 
-  return -1;
+  return -10;
 }
 
 void printArray(int *a, int n)
@@ -30,10 +30,7 @@ int main()
 {
   int a[] = {2, 1, 5, 9, 2, 1, 6, 7, 8};
   printArray(a, 9);
-  cout << linearSearch(a, 9, 4) << endl;
+  cout << linearSearch(a, 9, 3) << endl;
 
   return 0;
 }
-//i=0 i>=5  i++;
-//if i=5
-//cou

@@ -31,7 +31,7 @@ int divide(int a, int b)
 int divide(int num)
 {
   for(int i=2;i<=num/2;i++)
-    if divide(num)
+    if "divide"(num)
   }
     {
   return 0,

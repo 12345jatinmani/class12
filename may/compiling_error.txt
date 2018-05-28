@@ -1,0 +1,4 @@
+D:\class12\may\example2.cpp: In function 'int main()':
+D:\class12\may\example2.cpp:20:20: error: cast from 'char*' to 'short int' loses precision [-fpermissive]
+   cout << short(ptr) << endl; 
+                    ^
